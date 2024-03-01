@@ -46,7 +46,7 @@ echo.
 echo First Open "nvidiaProfileInspector.exe"
 echo.
 echo.
-echo If you do not have Nvidia display drivers goto "https://www.nvidia.com/en-us/geforce-now/download/" or open GeForceNOW-release.exe to install GeForce now
+echo If you do not have Nvidia display drivers goto "https://www.nvidia.com/en-us/geforce/geforce-experience/download/" or open GeForceNOW-release.exe to install GeForce now
 echo.
 echo.
 echo In the nvidiaProfileInspector window find: "Ansel flags for enabled applications" set it to ANSEL_ALLOWLISTED_ALLOWED then click Aply Changes.
